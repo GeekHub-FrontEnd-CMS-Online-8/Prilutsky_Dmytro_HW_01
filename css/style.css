@@ -1,0 +1,13 @@
+body {
+  font-size: 52px;
+  font-family: "Monaco", "Courier", monospace;
+  width: 100%;
+  margin: 0;
+  padding:0;
+}
+
+a {
+  text-decoration: none; /* Отменяем подчеркивание у ссылки */
+  display: block;
+  text-align: center;
+}
